@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yixian-ch
 - 👀 I’m interested in LLM's behavior explanation
-- 🌱 I’m currently learning Transformer's architecture and data project in high dimension space.
+- 🌱 I’m currently learning Transformer's architecture and data's projection in high dimension space.
 
 
 <!---
